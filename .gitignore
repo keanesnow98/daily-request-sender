@@ -1,0 +1,6 @@
+# Node files & directories
+node_modules
+package-lock.json
+
+# Output directory
+out
